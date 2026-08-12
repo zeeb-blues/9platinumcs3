@@ -1,6 +1,12 @@
-# 9platinumcs3
-
+# Computer Science 3 Portfolio
+## Student Information
 **Name:** Ariel Aloysius G. Latosa
-**Sections:** Diamond, Rosal, Platinum
-**Address:** Sorsogon City, Sorsogon
-**Hobbies:** Listening to music and drawing
+**Section:** Platinum
+**School Year:** 2026–2027
+---
+# Quarter 1
+## Activities
+### Computational Thinking Skills
+[text](q1/ctskillsPlatinumLatosa.md)
+### Chinese Zodiac
+[text](q1/zodiacPlatinumLatosa.md)
