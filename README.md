@@ -7,6 +7,6 @@
 # Quarter 1
 ## Activities
 ### Computational Thinking Skills
-[text](q1/ctskillsPlatinumLatosa.md)
+[View my Computational Thinking Skills](q1/ctskillsPlatinumLatosa.md)
 ### Chinese Zodiac
-[text](q1/zodiacPlatinumLatosa.md)
+[View my Chinese Zodiac](q1/zodiacPlatinumLatosa.md)
