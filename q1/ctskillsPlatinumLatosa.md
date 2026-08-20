@@ -1,8 +1,8 @@
 # Computational Thinking Exercise
 ## Smart School Canteen Queue
-**Name:** Ariel Aloysus G. Latosa
-**Section:** Platinum
-**Last Name:** Latosa
+**Name:** Ariel Aloysus G. Latosa<br>
+**Section:** Platinum<br>
+**Last Name:** Latosa<br>
 **Date:** 08/11/2026
 ---
 ## Scenario

@@ -1,7 +1,7 @@
 # Computer Science 3 Portfolio
 ## Student Information
-**Name:** Ariel Aloysius G. Latosa
-**Section:** Platinum
+**Name:** Ariel Aloysius G. Latosa<br>
+**Section:** Platinum<br>
 **School Year:** 2026–2027
 ---
 # Quarter 1
