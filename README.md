@@ -13,4 +13,4 @@
 ### Applying the Four Pillars of OOP
 [View my Applying the Four Pillars of OOP](q1/ila_oop.md)
 ### OOPAct Part I
-[View my OOPAct Part I](q1/classObjectUML.md)s
+[View my OOPAct Part I](q1/classObjectUML.md)
