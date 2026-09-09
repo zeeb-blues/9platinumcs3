@@ -12,5 +12,5 @@
 [View my Chinese Zodiac](q1/zodiacPlatinumLatosa.md)
 ### Applying the Four Pillars of OOP
 [View my Applying the Four Pillars of OOP](q1/ila_oop.md)
-### OOPAct Part I
-[View my OOPAct Part I](q1/classObjectUML.md)
+### OOPAct
+[View my OOPAct](q1/classObjectUML.md)
