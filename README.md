@@ -7,10 +7,11 @@
 # Quarter 1
 ## Activities
 ### Computational Thinking Skills
-[View my Computational Thinking Skills](q1/ctskillsPlatinumLatosa.md)
+[Click Here](q1/ctskillsPlatinumLatosa.md)
 ### Chinese Zodiac
-[View my Chinese Zodiac](q1/zodiacPlatinumLatosa.md)
+[Click Here](q1/zodiacPlatinumLatosa.md)
 ### Applying the Four Pillars of OOP
-[View my Applying the Four Pillars of OOP](q1/ila_oop.md)
+[Click Here](q1/ila_oop.md)
 ### OOPAct
-[View my OOPAct](q1/classObjectUML.md)
+[Part I](q1/classObjectUML.md)
+[Part II](q1/classAttributesMethods.md)
