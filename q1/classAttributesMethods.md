@@ -29,8 +29,8 @@ Changes from my previous design:
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
-![Test Run](classTestRun.png)
-![Object Diagram](objectDiagram.png)
+![Test Run](images/classTestRun.png)
+![Object Diagram](images/objectDiagram.png)
 
 ## Analysis
 
