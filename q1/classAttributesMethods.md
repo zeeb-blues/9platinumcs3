@@ -25,7 +25,7 @@ Changes from my previous design:
 |ydilated|float|private|prone to changes via methods.|
 
 ## Updated UML Class Diagram
-![Class Diagram](classDiagramSG5.png)!
+![Class Diagram](images/classDiagramSG5.png)
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
