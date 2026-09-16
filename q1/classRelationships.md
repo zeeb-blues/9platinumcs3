@@ -1,25 +1,25 @@
 # Class Relationships: Association and Multiplicity
 ## Previous Work
 
-[Part I - Classes and Objects](classObjectUML.md)
+[Part I - Classes and Objects](classObjectUML.md)<br>
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 
 ## Existing Class
-Class: Function
+Class: Function<br>
 Description: The class represents relations in a mathematical context that have only one output (y) assigned to each input (x), describing the properties (e.g., degree, leading coefficient, constant, and name) and actions (e.g, shifts, reflections, stretches, and compressions) pertained to its instances.
 
 ## New Related Class
-Class: CartesianPlane
-Description: The class represents a plane that may hold points pertained to coplanar functions.
-
+Class: CartesianPlane<br>
+Description: The class represents a plane that may hold points pertained to coplanar functions.<br>
+<br>
 These two classes are related as functions may be plotted on Cartesian planes, with one plane being able to hold multiple functions and different functions being able to be plotted on distinct planes.
 
 ## Association
-Relationship: CartesianPlane contains Function
+Relationship: CartesianPlane contains Function<br>
 Explanation: A cartesian plane is functions are plotted on.
 
 ## Multiplicity
-Multiplicity: CartesianPlane 1 -------------------- 0..* Function
+Multiplicity: CartesianPlane 1 -------------------- 0..* Function<br>
 Explanation: A cartesian plane can either have no functions plotted, have just one plotted, or multiple plotted. Thus, a cartesian plane can participate in a relationship with any number of functions.
 
 ## UML Class Diagram
