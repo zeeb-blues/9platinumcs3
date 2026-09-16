@@ -26,8 +26,7 @@ The class represents relations in a mathematical context that have only one outp
 |ycompress|vertically compresses the graph by a factor given by the user.|
 
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
-![Class Diagram](images/classDiagram.png)
+![Class Diagram](images/classDiagram.png)s
 
 ## Design Explanation
 ### Why did you choose this class?
