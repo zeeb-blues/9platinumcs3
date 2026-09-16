@@ -8,7 +8,7 @@ Link to my previous activity:
 Changes from my previous design:
 - Addition of attributes "expression," "xshifted," "yshifted," "xdilated," and "ydilated"
 - Addition of method "get_expression"
-- Replacement of methods "xstretch," "ystretch," "xcompression," and "ycompression" with "xdilate" and "ydilate"
+- Replacement of methods "xstretch," "ystretch," "xcompress," and "ycompress" with "xdilate" and "ydilate"
 - Changed the parameters of xshift and yshift from "units" to "shift"
 
 ## Visibility Decisions
@@ -29,7 +29,7 @@ Changes from my previous design:
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
-![Test Run](images/classTestRun.png)
+![Test Run](images/clasTestRun.png)
 ![Object Diagram](images/objectDiagram.png)
 
 ## Analysis

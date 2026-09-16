@@ -27,6 +27,7 @@ The class represents relations in a mathematical context that have only one outp
 
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
+![Class Diagram](images/classDiagram.png)
 
 ## Design Explanation
 ### Why did you choose this class?
