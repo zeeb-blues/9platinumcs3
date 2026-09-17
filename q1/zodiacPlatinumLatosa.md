@@ -53,4 +53,4 @@ else:
     print(zodiac[(year - 1900) % 12])
 
 # Output
-![alt text](zodiacoutputPlatinumLatosa.png)
+![q1/images/zodiacoutputPlatinumLatosa.png](images/zodiacoutputPlatinumLatosa.png)
