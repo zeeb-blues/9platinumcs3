@@ -46,6 +46,7 @@ The PSHS school canteen is small and often gets crowded during lunch break, as t
 ### Select Sub-Problem
 There is no system to track which food items are running out.
 ### Pseudocode
+```
 START
 Running ← 1
 DECLARE FoodItems ← []
@@ -71,4 +72,5 @@ WHILE Running = 1 THEN
         ENDIF
     ENDIF
 END
+```
 ---
