@@ -24,23 +24,11 @@ The PSHS school canteen is small and often gets crowded during lunch break, as t
 3. There is no system to track which food items are running out.
 ---
 ## Step 3: Apply Computational Thinking Skills
-|          Sub-Problem          |       CT Skill       |                 Proposed Solution                 |
-|-------------------------------|----------------------|---------------------------------------------------|
-|Some students take too long to |Decomposition, Pattern|Have stanchions be set up to people looking at the |
-|decide what to order.          |Recognition, and      |people looking at the food on display from the     |
-|                               |Algorithms            |people lining up to organize the already huge crowd|
-|                               |                      |to avoid confusion among the students.             |
-|-------------------------------|----------------------|---------------------------------------------------|
-|The cashier has to manually    |Decompositions,       |Supply the cashier a register and an automatic     |
-|calculate totals and give      |Abstraction, and      |dispenser to reduce the workload for the cashier   |
-|change.                        |Algorithms            |and speed up the process.                          |
-|-------------------------------|----------------------|---------------------------------------------------|
-|There is no system to track    |Decompositions,       |Implement a system wherein workers taking students'|
-|which food items are running   |Abstraction, and      |orders start the day off by calibrating newly built|
-|out.                           |Algorithms            |counters for the food items. Then, as students     |
-|                               |                      |order throughout the day, whenever a food item's   |
-|                               |                      |stock goes down, workers manually set the number   |
-|                               |                      |on its designated counter down by one.             |
+| Sub-Problem | CT Skill | Proposed Solution |
+|---|---|---|
+|Some students take too long to decide what to order.|Decomposition, Pattern Recognition, and Algorithms|Have stanchions be set up to people looking at the food on display from the people lining up to organize the already huge crowd to avoid confusion among the students.|
+|The cashier has to manually calculate totals and give change.|Decomposition, Abstraction, and Algorithms|Supply the cashier a register and an automatic dispenser to reduce the workload for the cashier and speed up the process.|
+|There is no system to track which food items are running out.|Decomposition, Abstraction, and Algorithms|Implement a system wherein workers taking students' orders start the day off by calibrating newly built counters for the food items. Then, as students order throughout the day, whenever a food item's stock goes down, workers manually set the number on its designated counter down by one.|
 ---
 ## Step 4: Algorithmic Solution
 ### Select Sub-Problem
