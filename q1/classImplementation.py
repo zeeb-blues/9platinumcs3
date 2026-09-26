@@ -8,34 +8,34 @@ class Function:
         self.__yshifted = 0
         self.__xdilated = 1
         self.__ydilated = 1
-        self.expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
+        self.__expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
 
     def get_expression(self):
-        return self.expression
+        return self.__expression
 
     def xshift(self, shift):
         self.__xshifted += shift
-        self.expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
+        self.__expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
 
     def yshift(self, shift):
         self.__yshifted += shift
-        self.expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
+        self.__expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
 
     def xreflect(self):
         self.__xdilated *= -1
-        self.expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
+        self.__expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
 
     def yreflect(self):
         self.__ydilated *= -1
-        self.expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
+        self.__expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
 
     def xdilate(self, factor):
         self.__xdilated *= factor
-        self.expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
+        self.__expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
 
     def ydilate(self, factor):
         self.__ydilated *= factor
-        self.expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
+        self.__expression = f"{self.name}(x) = {self.__xdilated}({self.__ydilated}(({self.leading_coefficient}x+{self.constant})-{self.__xshifted}))^{self.degree}+{self.__yshifted}"
 
 object1 = Function("f", 3, 2, 1)
 object2 = Function("g", 1, 3, 2)
