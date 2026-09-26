@@ -15,4 +15,5 @@
 ### OOPAct
 [Part I](q1/classObjectUML.md)<br>
 [Part II](q1/classAttributesMethods.md)<br>
-[Part III](q1/classRelationships.md)
+[Part III](q1/classRelationships.md)<br>
+[Part IV](q1/advancedRelationships.md)
