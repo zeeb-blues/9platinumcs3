@@ -34,6 +34,7 @@ Changes from my previous design:
 
 ## Analysis
 
+
 ### Why did you make your chosen attribute private?
 The decision that the chosen attributes would be turned private is so that only the methods responsible for changing the objects' states can change their values. The data fields name, degree, leading_coefficient, and constant are all given as an object is initiated and are not changed for the remainder of the code.
 
