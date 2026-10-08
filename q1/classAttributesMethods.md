@@ -45,4 +45,4 @@ The methods that change the state of the object are xshift(shift), yshift(shift)
 As a method was performed on object1, only object1 was affected whereas object2 was left unaffected, thus exhibiting encapsulation.
 
 ### What is the difference between your class diagram and your object diagram?
-The class diagram displays the class template itself, including the data types of the data fields and whether they are public or private. The object diagram displays instances of the class, showing the data field values of each of the class's instances. 
+The class diagram displays the class template itself, including the data types of the data fields and whether they are public or private. The object diagram displays instances of the class, showing the data field values of each of the class's objects. 

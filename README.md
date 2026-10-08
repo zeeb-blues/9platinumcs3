@@ -14,4 +14,6 @@
 [Click Here](q1/ila_oop.md)
 ### OOPAct
 [Part I](q1/classObjectUML.md)<br>
-[Part II](q1/classAttributesMethods.md)
+[Part II](q1/classAttributesMethods.md)<br>
+[Part III](q1/classRelationships.md)<br>
+[Part IV](q1/advancedRelationships.md)
