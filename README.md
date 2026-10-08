@@ -17,3 +17,8 @@
 [Part II](q1/classAttributesMethods.md)<br>
 [Part III](q1/classRelationships.md)<br>
 [Part IV](q1/advancedRelationships.md)
+
+# Quarter 2
+## Activities
+### Study Guide 8 — Encapsulation
+[Click Here](q2/sg8_encapsulation.py)
